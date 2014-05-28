@@ -1,0 +1,18 @@
+{
+    "name": "vendor/paddy-tour",
+    "description": "PaddyTour. Website to Paddywagon Tours",
+    "authors": [
+        {
+            "name": "Kevin",
+            "email": "kevin.holohan1@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.2",
+        "slim/slim": "2.*",
+        "twig/twig": "1.*"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "3.7.*"
+    }
+}
